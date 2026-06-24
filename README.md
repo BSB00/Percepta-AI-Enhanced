@@ -1,3 +1,9 @@
+# Percepta AI Enhanced
+
+**Maintained by Bhavdeep Singh (BSB00)**
+
+GitHub: https://github.com/BSB00
+
 <p align="center">
   <a>
     <h1 align="center">Percepta AI</h1>
